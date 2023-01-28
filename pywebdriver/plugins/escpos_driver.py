@@ -350,7 +350,7 @@ else:
                     )
                 )
                 Layout("<div>" + msg + "</div>").format(self)
-                self.close()
+            self.close()
 
         # #####################################################################
         # <Odoo Version 7>
