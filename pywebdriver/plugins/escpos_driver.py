@@ -63,7 +63,8 @@ SUPPORTED_DEVICES = [
     {"vendor": 0x04B8, "product": 0x0E15, "name": "Epson TM-T20II"},
     {"vendor": 0x04B8, "product": 0x0E28, "name": "Epson TM-T20III"},
     {"vendor": 0x0525, "product": 0xA700, "name": "Netchip POS Printer Aures ODP 333"},
-    {"vendor": 0x0483, "product": 0x070b, "name": "Xprinter"}
+    {"vendor": 0x0483, "product": 0x070b, "name": "Xprinter"},
+    {"vendor": 0x0483, "product": 0x05743,"name": "Zywell Printer"}
 ]
 
 _logger = logging.getLogger(__name__)
